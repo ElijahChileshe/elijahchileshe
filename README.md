@@ -30,16 +30,16 @@ I enjoy solving complex problems through clean, efficient, and impactful code.
 ## ⚙️ Languages & Technologies
 
 ### 💻 Programming Languages
-<img src="https://skillicons.dev/icons?i=python,java,javascript,typescript" height="45" alt="Languages" />
+<img src="https://skillicons.dev/icons?i=python,java,javascript" height="45" alt="Languages" />
 
 ### 🧱 Frameworks & Libraries
 <img src="https://skillicons.dev/icons?i=react,reactnative,nodejs,express" height="45" alt="Frameworks" />
 
 ### 🗄️ Databases
-<img src="https://skillicons.dev/icons?i=mongodb,sqlite,mysql" height="45" alt="Databases" />
+<img src="https://skillicons.dev/icons?i=mongodb,mysql" height="45" alt="Databases" />
 
 ### 🛠️ Tools & Platforms
-<img src="https://skillicons.dev/icons?i=linux,docker,git,bash,github,vscode" height="45" alt="Tools" />
+<img src="https://skillicons.dev/icons?i=linux,git,bash,github,vscode" height="45" alt="Tools" />
 
 ---
 
@@ -72,8 +72,8 @@ Python-based framework for **analyzing and classifying DICOM metadata** across m
 - 🎤 **Presenter – MICCAI 2025 (South Korea)**  
   *“Large Scale DICOM Compliance Evaluation of Medical Image Data Elements in Low-Resource Settings”*  
 
-- 🏛️ **Organizer – ETD 2024 (Livingstone, Zambia)**  
-  *27th International Symposium on Electronic Theses and Dissertations*  
+- 🏅 **Recipient — 2025 Linux Foundation Training (LiFT) Scholarship**
+*Awarded to pursue the Linux Foundation Certified System Administrator (LFCS) certification*
 
 ---
 
